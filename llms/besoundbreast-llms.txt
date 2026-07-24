@@ -1,0 +1,20 @@
+# BeSound
+
+> BeSound offers modern, radiation-free breast imaging using ultrasound to help find what mammograms can miss. Accurate results in 24–48 weekday hours. Locations in Los Angeles (Melrose Ave) and Beverly Hills (Rodeo Drive Women's Health Center). BeSound is a technology platform; imaging is delivered by independent partner medical groups.
+
+## Pages
+
+- [How it works](https://www.besoundbreast.com/how-it-works): How the radiation-free breast ultrasound (ABUS) scan works, from booking to results.
+- [Learn your risk](https://www.besoundbreast.com/learn-your-risk): Why dense breast tissue can hide what mammograms miss, and how to understand your risk.
+- [Before your scan](https://www.besoundbreast.com/before-your-scan): What to expect at your appointment, locations, parking, and arrival.
+- [FAQs](https://www.besoundbreast.com/faqs): How the scan works, who it's for, dense tissue, cost ($349), insurance, and results turnaround.
+- [Meet the team](https://www.besoundbreast.com/team): Founders and advisory board.
+- [Contact](https://www.besoundbreast.com/contact): Get in touch.
+
+## Key facts
+
+- Imaging type: radiation-free ultrasound (ABUS); opto-acoustic imaging for diagnostic follow-up.
+- Cost: $349 for a screening breast ultrasound.
+- Results: delivered to a secure patient portal within 24–48 weekday hours.
+- Locations: 8274 Melrose Ave, Los Angeles, CA 90046; 9720 Wilshire Blvd, Ste LL, Beverly Hills, CA 90212.
+- Contact: patients@besoundbreast.com

@@ -1,8 +1,13 @@
 aid: besoundbreast
 name: Besoundbreast
-description: Besoundbreast is a company surfaced as a portfolio company of kindred-ventures and added
-  to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment
-  pipeline.
+description: 'BeSound (Besoundbreast) is a women''s-health technology platform offering modern,
+  radiation-free breast imaging using ABUS ultrasound to help find cancers that mammograms can miss,
+  particularly in women with dense breast tissue. BeSound connects patients with independent partner
+  medical groups who deliver the imaging; results reach a secure patient portal within 24-48 weekday
+  hours. Screening breast ultrasound is $349, with locations in Los Angeles (Melrose Ave) and Beverly
+  Hills. BeSound is a consumer healthcare service and does not currently publish a public developer API,
+  SDKs, or developer portal; this profile captures its public identity and the machine-readable llms.txt
+  it publishes for AI agents.'
 url: https://raw.githubusercontent.com/api-evangelist/besoundbreast/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -10,11 +15,31 @@ x-backed-by:
 - kindred-ventures
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
+image: https://www.besoundbreast.com/opengraph-image-12o0cb?31d1714fa866ec41
 tags:
 - Company
+- Health
+- Healthcare
+- Medical Imaging
+- Breast Health
+- Women's Health
+- Diagnostics
+- Ultrasound
+- HealthTech
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -22,5 +47,24 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: DomainSecurity
+  url: security/besoundbreast-domain-security.yml
+- type: LLMsTxt
+  url: llms/besoundbreast-llms.txt
 - type: Website
   url: https://besoundbreast.com/
+- type: PrivacyPolicy
+  url: https://www.besoundbreast.com/info/privacy-policy
+- type: TermsOfService
+  url: https://www.besoundbreast.com/info/terms-of-service
+- type: Support
+  url: https://www.besoundbreast.com/contact
+- type: Login
+  url: https://app.besoundbreast.com/
+- type: FAQ
+  url: https://www.besoundbreast.com/faqs
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
